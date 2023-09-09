@@ -14,7 +14,7 @@ Tables:
 
 'games' tracks all matches and scores made by both the winner team and the opponent team (using team_id as the identifier).
 'teams' lists all teams that played in the matches.
-View: initial_tables_creation.sql
+View: Create table.sql
 
 Relational Database diagram
 worldcup diagram
